@@ -139,6 +139,12 @@ The single-compound view lets users paste a SMILES string and receive an immedia
 Upload a CSV of SMILES (or descriptors) to run bulk predictions and download the results with predicted solubility values appended.
 
 ![Batch upload prediction](images/Batch-Upload.png)
+ 
+## 🔗 Live demo
+
+Try the live Streamlit demo here:
+
+[Open ESOL Solubility Predictor (Streamlit)](https://esol-solubility-predictor.streamlit.app/)
 
 ---
 
