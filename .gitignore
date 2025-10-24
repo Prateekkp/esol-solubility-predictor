@@ -3,13 +3,14 @@
 # ============================================
 
 
-# --- Virtual Environments ---
+# Ignore virtual environment folders
 venv/
-env/
 .venv/
+env/
+.env/
 ENV/
 .ENV/
-.conda/
-conda_env/
-*.conda
 
+# Ignore environment variable files
+.env
+.env.*
