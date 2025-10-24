@@ -1,0 +1,15 @@
+# ============================================
+# 📦 .gitignore for Molecular Solubility Predictor
+# ============================================
+
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+.conda/
+conda_env/
+*.conda
+
